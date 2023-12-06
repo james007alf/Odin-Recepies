@@ -1,0 +1,39 @@
+body {
+    background-image: url(../recipes/images/background.jpg); 
+    color: white;
+    font-family: sans-serif;
+    font-size: 21px;
+    background-position: cover;
+}
+
+
+ol {
+    color: aliceblue;
+    font-size: 15px;
+}
+
+span {
+    color: yellow;
+}
+
+.top-section {
+    color: aqua;
+}
+
+.bottom-section {
+    color: aquamarine;
+}
+
+.intro {
+    font-style: italic;
+}
+
+.box {
+    background-image: url(../recipes/images/indian_lassi.jpeg);
+    color: darkblue;
+    width: 100px;
+    margin: 50px;
+    border: 5px solid yellow;
+    padding: 20px 30px;
+    background-size: cover;
+}
